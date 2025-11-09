@@ -1,0 +1,14 @@
+D:\C# projects\Week 5 Final Project\Calucator_final_project\bin\Debug\net6.0\Calucator_final_project.exe
+D:\C# projects\Week 5 Final Project\Calucator_final_project\bin\Debug\net6.0\Calucator_final_project.deps.json
+D:\C# projects\Week 5 Final Project\Calucator_final_project\bin\Debug\net6.0\Calucator_final_project.runtimeconfig.json
+D:\C# projects\Week 5 Final Project\Calucator_final_project\bin\Debug\net6.0\Calucator_final_project.dll
+D:\C# projects\Week 5 Final Project\Calucator_final_project\bin\Debug\net6.0\Calucator_final_project.pdb
+D:\C# projects\Week 5 Final Project\Calucator_final_project\obj\Debug\net6.0\Calucator_final_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\Week 5 Final Project\Calucator_final_project\obj\Debug\net6.0\Calucator_final_project.AssemblyInfoInputs.cache
+D:\C# projects\Week 5 Final Project\Calucator_final_project\obj\Debug\net6.0\Calucator_final_project.AssemblyInfo.cs
+D:\C# projects\Week 5 Final Project\Calucator_final_project\obj\Debug\net6.0\Calucator_final_project.csproj.CoreCompileInputs.cache
+D:\C# projects\Week 5 Final Project\Calucator_final_project\obj\Debug\net6.0\Calucator_final_project.dll
+D:\C# projects\Week 5 Final Project\Calucator_final_project\obj\Debug\net6.0\refint\Calucator_final_project.dll
+D:\C# projects\Week 5 Final Project\Calucator_final_project\obj\Debug\net6.0\Calucator_final_project.pdb
+D:\C# projects\Week 5 Final Project\Calucator_final_project\obj\Debug\net6.0\Calucator_final_project.genruntimeconfig.cache
+D:\C# projects\Week 5 Final Project\Calucator_final_project\obj\Debug\net6.0\ref\Calucator_final_project.dll
