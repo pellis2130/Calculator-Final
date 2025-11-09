@@ -12,3 +12,4 @@ D:\C# projects\Week 5 Final Project\Calucator_final_project\obj\Debug\net6.0\ref
 D:\C# projects\Week 5 Final Project\Calucator_final_project\obj\Debug\net6.0\Calucator_final_project.pdb
 D:\C# projects\Week 5 Final Project\Calucator_final_project\obj\Debug\net6.0\Calucator_final_project.genruntimeconfig.cache
 D:\C# projects\Week 5 Final Project\Calucator_final_project\obj\Debug\net6.0\ref\Calucator_final_project.dll
+D:\C# projects\Week 5 Final Project\Calucator_final_project\obj\Debug\net6.0\Calucator_final_project.sourcelink.json
